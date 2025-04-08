@@ -15,6 +15,8 @@ public class ClasePueba {
         for(int i = 0; i<10;i++){
             System.err.println("Hola mundo");
             
+            
+            //hola
         }
     }
 }
