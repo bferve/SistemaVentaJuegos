@@ -17,6 +17,7 @@ public class ClasePueba {
             
             
             //hola
+            while(true){int a = 1;}
         }
     }
 }
